@@ -1,0 +1,17 @@
+{
+  "Products": [
+    {  "productName": "Water bottle",
+      "productDescription": "Great Bottle to take along a run",
+      "productPrice": "$10",
+      "productImage":"https://raw.githubusercontent.com/donalmeida/demo/master/harpersferry.jpg"}, 
+    {  "productName": "Running Glasses",
+      "productDescription": "Great to take along a run",
+      "productPrice": "$50",
+      "productImage":"https://raw.githubusercontent.com/donalmeida/demo/master/harpersferry.jpg"}, 
+    {  "productName": "Running shorts",
+      "productDescription": "Good Comfort while running",
+      "productPrice": "$15",
+      "productImage":"https://raw.githubusercontent.com/donalmeida/demo/master/harpersferry.jpg"} 
+  ],
+  "Status": "Ok"
+}
